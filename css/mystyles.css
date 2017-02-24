@@ -64,3 +64,44 @@ body{
 
 .signinTextColour {
     color:floralwhite;}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.affix {
+    top:100px;
+}
+
+/*Carousel formatting*/
+.carousel {
+    background:#1A237E;
+}
+.carousel .item {
+  height: 200px;
+}
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.carousel-text{
+    top:30px;
+    left:80px;
+    position:relative;
+    color: #b7b7b7;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.carousel-indicators {
+    position:relative;
+    left:650px;
+    bottom:-210px;
+}
