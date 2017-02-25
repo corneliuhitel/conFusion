@@ -105,3 +105,11 @@ body{
     left:650px;
     bottom:-210px;
 }
+
+/*Adding CSS Class for the pause and resume Buttons */
+
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+}
